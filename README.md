@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nikita Thakur</h1>
 <h3 align="center">I am Quora Partner Programmer</h3>
 
-- 🌱 I’m currently learning **C++, Python**
+- 🌱 I’m currently learning **Python, Reactjs and Nodejs**
 
-- 💬 Ask me about **HTML, CSS**
+- 💬 Ask me about **C++, HTML, CSS, Javascript, Bootstrap**
 
 - 📫 How to reach me **nikitathakur356@gmail.com**
 
