@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikita Thakur</h1>
-<h3 align="center">I am Quora Partner Programmer</h3>
+<h3 align="center">I am a Full Stack Developer</h3>
 
 - 🌱 I’m currently learning **Python, Reactjs and Nodejs**
 
