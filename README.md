@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, Reactjs and Nodejs**
 
-- 💬 Ask me about **C++, HTML, CSS, Javascript, Bootstrap**
+- 💬 Ask me about **C++, HTML, CSS, Javascript, Bootstrap**, Python, Figma
 
 - 📫 How to reach me **nikitathakur356@gmail.com**
 
